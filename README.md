@@ -7,7 +7,7 @@ I'm Milena, a QA Engineer who is committed to continuous learning and improvemen
 
 ✨ Tools of the trade:
   * Manual testing: Because nothing beats a human touch.
-  * Automation: Sometimes,it is faster with automation.
+  * Automation: Sometimes,it's faster with automation.
   * API Testing with Postman: API's don't scare me.
   * Jenkins: Basic CI/CD knowledge to keep things flowing.
   * SQL: Querying databases like it's nobody business.
